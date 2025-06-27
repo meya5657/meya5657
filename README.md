@@ -1,5 +1,5 @@
 ###    👋 Hi, I’m Meya!
-Aspiring Quantum Research Scientist sharing my journey learning programming languages <br>👩🏽‍🔬 Studying Computer Science, Molecular Engineering, and Physics @ Rochester Institute of Technology<br>⭐ View my productivity on LinkedIn<br>📃Learning publicly on my blog --> [Substack](https://substack.com/@meyajohnson?utm_source=user-menu) & (another link here ) <br>📎 My website >>><br>☁️ Currently learning the Julia programming language --> https://julialang.org/
+Aspiring Quantum Research Scientist sharing my journey learning programming languages <br>👩🏽‍🔬 Studying Computer Science, Molecular Engineering, and Physics @ Rochester Institute of Technology<br>⭐ View my productivity on [LinkedIn](https://www.linkedin.com/in/meya-johnson-a433b5211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)<br>📃Learning publicly on my blog --> [Substack](https://substack.com/@meyajohnson?utm_source=user-menu) & (another link here ) <br>📎 My website >>><br>☁️ Currently learning the Julia programming language --> https://julialang.org/
 
 
 ## 🌐 Socials:
